@@ -2,7 +2,7 @@ const knex = require("knex")(require("../knexfile"));
 
 const index = async (_req, res) => {
   try {
-    const data = await knex("tracks");
+    const data = await knex.select("id", "name", "img").from("tracks");
     res.json(data);
   } catch (error) {
     console.log(error);
