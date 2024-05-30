@@ -316,7 +316,7 @@ const tracks = [
   {
     id: 63,
     name: "Wii Wario's Gold Mine",
-    img: "MK8-DLC-Course-icon-Wii_Wario'sGoldMine.png",
+    img: "MK8-DLC-Course-icon-Wii_WariosGoldMine.png",
   },
   {
     id: 64,
@@ -346,7 +346,7 @@ const tracks = [
   {
     id: 69,
     name: "Bowser's Castle",
-    img: "MK8-_Bowser's_Castle.png",
+    img: "MK8-_Bowsers_Castle.png",
   },
   {
     id: 70,
@@ -421,7 +421,7 @@ const tracks = [
   {
     id: 84,
     name: "N64 Toad's Turnpike",
-    img: "MK8-_N64_Toad's_Turnpike.png",
+    img: "MK8-_N64_Toads_Turnpike.png",
   },
   {
     id: 85,
