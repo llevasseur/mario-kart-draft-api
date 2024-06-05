@@ -97,7 +97,7 @@ const tracks = [
   {
     id: 17,
     name: "GCN Yoshi Circuit",
-    img: "MK8-_GCN_Yoshi_Circuit.png",
+    img: "MK8-DLC-Course-icon-GCN_YoshiCircuit.png",
     prix_id: 5,
   },
   {
@@ -217,7 +217,7 @@ const tracks = [
   {
     id: 37,
     name: "Tick-Tock Clock",
-    img: "MK8-_Tick_Tock_Clock.png",
+    img: "MK8-_DS_Tick-Tock_Clock.png",
     prix_id: 10,
   },
   {
@@ -463,7 +463,7 @@ const tracks = [
   {
     id: 78,
     name: "DS Mario Circuit",
-    img: "MK8-_DS_Mario_Circuit.png",
+    img: "152px-MK8D_DS_Mario_Circuit_Course_Icon.png",
     prix_id: 20,
   },
   {
